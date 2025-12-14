@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Im a engineering physics student at KTH, currently in my second year. 
+I'm an engineering physics student at KTH, currently in my second year. 
 
 Still just a beginner programmer, but want to learn more 😄
 
@@ -15,7 +15,7 @@ Still just a beginner programmer, but want to learn more 😄
           SF1544 - Numeriska metoder grundkurs IV,
           SF1681 - Linjär algebra fortsättningskurs.
 
-The code is written by me alone or a big portion of it is (if it was a group project).
+The code is written by me alone or a big portion of it is (if it was a group project) unless stated otherwise.
 
 ## Other things about me
 
